@@ -1,5 +1,5 @@
 # Name
-###Instagram follower bot.
+**Instagram follower bot.**
 
 ## Description
 Have you ever felt lonely, and can use a bit more friends? Well I can't really get you more friends, but I could help you figure out a way to get more followers. Recently while talking to an Instagram consultant; a person who advices businesses and start-ups on how they can build their instagram presence. So one things they said  which made a lot of sense is let's say if you were going to build a brand around something, lets say you were building a brand around cooking, so you search on instagram all the brands that are already cooking related. So you find a brand that has the similar demographic or users which you want for your brand. So you look at their followers and follow them, this allows them to notice you which will then result in getting you more followers. This is a cool idea and right for automation as well. Who wants to go through a list of 270000 followers right?
